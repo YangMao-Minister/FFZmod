@@ -1,0 +1,18 @@
+Message at 2023/8/30 12:12:56: Importing Eff1.png with Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+Message at 2023/8/30 12:12:56: Processing Eff1.png with Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+Message at 2023/8/30 12:12:56: Compiling Content\Eff1.xnb
+Message at 2023/8/30 12:12:56: Importing icon.png with Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+Message at 2023/8/30 12:12:56: Processing icon.png with Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+Message at 2023/8/30 12:12:56: Compiling Content\icon.xnb
+Message at 2023/8/30 12:13:29: Importing Eff1.png with Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+Message at 2023/8/30 12:13:29: Processing Eff1.png with Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+Message at 2023/8/30 12:13:29: Compiling Content\Eff1.xnb
+Message at 2023/8/30 12:13:29: Importing icon.png with Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+Message at 2023/8/30 12:13:29: Processing icon.png with Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+Message at 2023/8/30 12:13:29: Compiling Content\icon.xnb
+Message at 2023/8/30 12:13:49: Importing Eff1.png with Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+Message at 2023/8/30 12:13:49: Processing Eff1.png with Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+Message at 2023/8/30 12:13:49: Compiling Content\Eff1.xnb
+Message at 2023/8/30 12:13:50: Importing icon.png with Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+Message at 2023/8/30 12:13:50: Processing icon.png with Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+Message at 2023/8/30 12:13:50: Compiling Content\icon.xnb

@@ -1,0 +1,73 @@
+# This file will automatically update with entries for new content after a build and reload
+
+Items: {
+	NJSword: {
+		DisplayName: 内卷之刃
+		Tooltip: 伟大内卷之神的意志于此涌动
+	}
+
+	RBomb: {
+		DisplayName: 一个小炸弹
+		Tooltip:
+			'''
+			一个炸弹。
+			左键扔出
+			右键将炸弹威力设为当前堆叠数(默认400)
+
+			消耗品
+			'''
+	}
+
+	SingularityBomb: {
+		DisplayName: 奇点炸弹
+		Tooltip:
+			'''
+			无限 远程伤害
+
+			消耗品
+
+			"把它当作武器是一个愚蠢的选择。"
+			                ——某知名迭代器
+			'''
+	}
+
+	VoidCrush: {
+		DisplayName: 虚空破碎
+		Tooltip:
+			'''
+			凭借光明与晦暗湮灭之伟力
+			撕碎蜷缩于现实深层的虚空
+			'''
+	}
+
+	OverloadedAurora: {
+		DisplayName: 过载极光
+		Tooltip: 有时极端的光明……未必是件好事
+	}
+
+	SolidEnergy: {
+		DisplayName: 凝聚态能量
+		Tooltip:
+			'''
+			魔法？ 科技！
+			科技？ 魔法！
+			'''
+	}
+
+	TestItem: {
+		Tooltip: ""
+		DisplayName: Test Item
+	}
+}
+
+Projectiles: {
+	NJShockPulse.DisplayName: N J Shock Pulse
+	NJPaper.DisplayName: N J Paper
+	RBomb.DisplayName: R Bomb
+	SingularityBomb.DisplayName: 奇点炸弹的时空冲击
+	SingularitySpark.DisplayName: Singularity Spark
+	VoidCrush.DisplayName: Void Crush
+	LightningSpark.DisplayName: Lightning Spark
+	OAProjectile.DisplayName: O A Projectile
+	LightningArc.DisplayName: Lightning Arc
+}
